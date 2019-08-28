@@ -67,7 +67,7 @@
             Testimonial Carousel
         ----------------------------------------------------*/
         $('.testi-carousel').owlCarousel({
-            loop: true,
+            loop: false,
             autoplay: true,
             autoplayTimeout: 5000,
             animateOut: 'fadeOut',
